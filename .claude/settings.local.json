@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"f:\\\\learning cpp\\\\run.ps1\" day01)",
+      "PowerShell(Copy-Item \"f:\\\\learning cpp\\\\day02\\\\skeleton.cpp\" \"f:\\\\learning cpp\\\\day02\\\\main.cpp\")",
+      "PowerShell(\"day02 setup ok\")"
+    ]
+  }
+}
